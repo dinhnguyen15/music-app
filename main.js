@@ -2,7 +2,7 @@
 const $ = document.querySelector.bind(document);
 const $$ = document.querySelectorAll.bind(document);
 
-const PLAYER_STOGARE_KEY = "Anh Nguyễn";
+const PLAYER_STOGARE_KEY = "URIC";
 
 /** Các chức năng:
  * A1 - Render playlist ra màn hình
